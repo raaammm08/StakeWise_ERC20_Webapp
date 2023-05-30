@@ -1,13 +1,45 @@
 # ERC20 Staking App ----> StakeWise
 using ERC20Conracts 
+
 EVM blockchain
+
 Next.js Framework
+
 Typescript Language
+
 Chakra-react ui
+
 Local wallet is used to create contracts //attaching that localwallet backup to import for testcase...
+
 PS:Ignore the runtime of that local wallet...
+
 file name:wallet.json Passwor:Ts08#11@2001*
 
+# Must have folders to run the App
+
+install node modules
+
+![Screenshot from 2023-05-31 00-55-36](https://github.com/raaammm08/StakeWise_ERC20_Webapp/assets/69867867/ad198e4a-c8e8-49d9-85d4-f9a44229cbd2)
+-------------------------------------------------
+
+contracts also need node mudules
+
+![Screenshot from 2023-05-31 00-59-17](https://github.com/raaammm08/StakeWise_ERC20_Webapp/assets/69867867/101d5132-5ae1-41aa-94e6-0d417fb7b899)
+-------------------------------------------------
+# APP INTERFACE PICS
+
+# interface
+
+![Screenshot from 2023-05-31 00-17-30](https://github.com/raaammm08/StakeWise_ERC20_Webapp/assets/69867867/55fc1a7e-68ab-47b1-98ad-1f1e3c6db64f)
+----------------------------------------------------------------------
+# after login
+
+![Screenshot from 2023-05-31 00-17-11](https://github.com/raaammm08/StakeWise_ERC20_Webapp/assets/69867867/48f173d4-01a0-4c80-ac5b-595eefce629f)
+----------------------------------------------------------------------
+# wallet for backup 
+
+![Screenshot from 2023-05-31 00-35-18](https://github.com/raaammm08/StakeWise_ERC20_Webapp/assets/69867867/5248db5a-209c-41d8-8da4-8df8fdbfb4f5)
+----------------------------------------------------------------------
 
 Allow users to stake their ERC20 tokens in return for more/other ERC20 tokens!
 
